@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "SH"
-  avatar           : "/assets/images/coffee-icon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/beverage-3157395_1920.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "웹개발자 되기"
   location         : "Republic of korea"
   email            : "wintersnow3@naver.com"
