@@ -12,7 +12,6 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <img src = "https://catholicconvert.files.wordpress.com/2009/04/padarn-with-boat-banner.jpg"/>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -21,6 +20,7 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
+        <img src = "https://catholicconvert.files.wordpress.com/2009/04/padarn-with-boat-banner.jpg"/>
       {{ content }}
     </div>
 
