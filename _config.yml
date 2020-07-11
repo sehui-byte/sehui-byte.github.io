@@ -11,14 +11,12 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-header:
-  image: /assets/images/beverage-3157395_1920.jpg
+image: /assets/images/beverage-3157395_1920.jpg
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  
 locale                   : "ko"
 title                    : "웹개발 공부노트"
 title_separator          : "-"
