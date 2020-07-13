@@ -11,7 +11,7 @@ header:
     - label: "구독하기"
       url: "/terms/"
   caption: "Photo credit: [**Pixabay**](https://pixabay.com/)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Welcome to my blog!"
 intro: 
   - excerpt: '대학교에서 중어중문과 컴퓨터과학을 전공했습니다. 이 블로그엔 웹개발자가 되기 위한 공부 기록을 남깁니다.'
   
