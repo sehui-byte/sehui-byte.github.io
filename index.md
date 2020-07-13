@@ -9,13 +9,14 @@ header:
   actions:
   <!--  - label: "구독하기" 나중에 이 기능 추가할 것
       url: "/terms/"
--->
+  -->
  <!-- caption: "Photo credit: [**Unsplash**](https://unsplash.com)" -->
 excerpt: "웹 개발자를 목표로 공부합니다."
 intro: 
   - excerpt: '대학교에서 중어중문학과와 컴퓨터과학과를 전공하였습니다. 
   이 곳은 웹개발자가 되기 위해 공부 기록을 남기는 블로그입니다.'
-  <!--
+ 
+ <!--
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
