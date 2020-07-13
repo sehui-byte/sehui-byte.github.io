@@ -7,7 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/beverage-3157395_1920.jpg
   actions:
-  - label: "구독하기" 나중에 이 기능 추가할 것
+  <!-- 나중에 이 기능 추가할 것 -->
+  - label: "구독하기" 
     url: "/terms/"
       
 caption: "Photo credit: [**Unsplash**](https://unsplash.com)" 
