@@ -6,11 +6,11 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: https://cdn.pixabay.com/photo/2017/04/19/13/15/computer-2242263_1280.jpg
   actions:
     - label: "구독하기"
       url: "/terms/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Pixabay**](https://pixabay.com/)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: '대학교에서 중어중문과 컴퓨터과학을 전공했습니다. 이 블로그엔 웹개발자가 되기 위한 공부 기록을 남깁니다.'
