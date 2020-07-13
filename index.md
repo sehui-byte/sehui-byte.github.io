@@ -1,22 +1,21 @@
 ---
-title: "Coffe and Coding"
-layout: home
+title: "Coffee and Coding"
+layout: splash
+permalink: 
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/beverage-3157395_1920.jpg
+  overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-  <!-- 나중에 이 기능 추가할 것 -->
-  - label: "구독하기" 
-    url: "/terms/"
-      
-caption: "Photo credit: [**Unsplash**](https://unsplash.com)" 
-excerpt: "웹 개발자를 목표로 공부합니다."
+    - label: "구독하기"
+      url: "/terms/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: '대학교에서 중어중문학과와 컴퓨터과학과를 전공하였습니다. 이 곳은 웹개발자가 되기 위해 공부 기록을 남기는 블로그입니다.'
- 
-
+  - excerpt: '대학교에서 중어중문과 컴퓨터과학을 전공했습니다. 이 블로그엔 웹개발자가 되기 위한 공부 기록을 남깁니다.'
+  
+  <!--
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -57,16 +56,15 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
+-->
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-<!--
 {% include feature_row %}
+
 {% include feature_row id="feature_row2" type="left" %}
+
 {% include feature_row id="feature_row3" type="right" %}
+
 {% include feature_row id="feature_row4" type="center" %}
--->
-
-
