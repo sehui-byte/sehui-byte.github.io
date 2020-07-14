@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Pixabay**](https://pixabay.com/)"
 excerpt: "Welcome to my blog!"
 intro: 
-  - excerpt: "대학교에서 중어중문과 컴퓨터과학을 전공했습니다.\
+  - excerpt: | "대학교에서 중어중문과 컴퓨터과학을 전공했습니다.
   이 블로그엔 웹개발자가 되기 위한 공부 기록을 남깁니다."
   
 feature_row:
