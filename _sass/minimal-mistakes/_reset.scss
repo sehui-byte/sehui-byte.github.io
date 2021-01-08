@@ -10,16 +10,17 @@ html {
   background-color: $background-color;
   font-size: 16px;
 
+ 
   @include breakpoint($medium) {
-    font-size: 15px;
+    font-size: 15px; //폰트 크기 수정
   }
 
   @include breakpoint($large) {
-    font-size: 20px;
+    font-size: 16px; //폰트 크기 수정
   }
 
   @include breakpoint($x-large) {
-    font-size: 22px;
+    font-size: 18px; //폰트 크기 수정
   }
 
   -webkit-text-size-adjust: 100%;
