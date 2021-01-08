@@ -8,19 +8,19 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 12px; //폰트 크기 수정
+  font-size: 15px; //폰트 크기 수정
 
- 
+ //폰트 크기 고정
   @include breakpoint($medium) {
     font-size: 15px; //폰트 크기 수정
   }
 
   @include breakpoint($large) {
-    font-size: 16px; //폰트 크기 수정
+    font-size: 15px; //폰트 크기 수정
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px; //폰트 크기 수정
+    font-size: 15px; //폰트 크기 수정
   }
 
   -webkit-text-size-adjust: 100%;
